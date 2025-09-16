@@ -1,4 +1,4 @@
-https://github.com/xskiczu-dotcom/Skiczonverter/blob/main/skiczonverter.png?raw=true
+![image description](relative/path/in/repository/to/image.svghttps://github.com/xskiczu-dotcom/Skiczonverter/blob/main/skiczonverter.png?raw=true)
 # Skiczonverter 🎥🎵
 
 A simple FFmpeg-based file converter with a friendly GUI built in Python + Tkinter.
