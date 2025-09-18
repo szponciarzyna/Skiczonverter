@@ -1,6 +1,8 @@
 ![image description](https://github.com/xskiczu-dotcom/Skiczonverter/blob/main/skiczonverter.png?raw=true)
 # Skiczonverter 🎥🎵
 
+Smart Screen flags it i dont know why but just ignore it.
+
 A simple FFmpeg-based file converter with a friendly GUI built in Python + Tkinter.
 
 📦 Installation
