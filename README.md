@@ -38,3 +38,5 @@ Windows 10/11.
 If you select None as extension, you must type your own extension manually.
 
 Skiczonverter uses FFmpeg internally — a powerful open-source multimedia framework.
+
+If you have any problems with the program contact me via this email: its@cc.cc
